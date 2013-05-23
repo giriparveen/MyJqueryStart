@@ -8,6 +8,6 @@
         About
     </h2>
     <p>
-        Put content here.
+        My GUI Project for Git
     </p>
 </asp:Content>
